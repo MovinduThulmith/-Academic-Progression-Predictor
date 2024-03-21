@@ -1,1 +1,3 @@
-# -Academic-Progression-Predictor
+ -Academic-Progression-Predictor-
+
+Developed a Python program to predict academic progression outcomes for university students based on their credit scores. The program allows staff members to input pass, defer, and fail credits for multiple students, and it calculates the appropriate progression outcome (progress, trailing, module retriever, or exclude) while ensuring data validation. Implemented features include error handling for incorrect input types and out-of-range values, efficient use of conditional statements, and data storage using lists and dictionaries. Additionally, the program generates a histogram visualization of progression outcomes and stores student data in a text file for future reference.
